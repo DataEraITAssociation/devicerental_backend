@@ -1,3 +1,2 @@
-# Strapi application
-
-A quick description of your strapi application
+# devicerental_backend
+Our organization requires an application for serving our device rental business. This backend uses Strapi.
